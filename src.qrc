@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>src/blackJiang.png</file>
+        <file>src/blackJu.png</file>
+        <file>src/blackMa.png</file>
+        <file>src/blackPao.png</file>
+        <file>src/blackShi.png</file>
+        <file>src/blackXiang.png</file>
+        <file>src/blackZu.png</file>
+        <file>src/board.jpg</file>
+        <file>src/redBing.png</file>
+        <file>src/redJu.png</file>
+        <file>src/redMa.png</file>
+        <file>src/redPao.png</file>
+        <file>src/redShi.png</file>
+        <file>src/redShuai.png</file>
+        <file>src/redXiang.png</file>
+    </qresource>
+</RCC>
